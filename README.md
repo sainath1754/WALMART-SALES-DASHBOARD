@@ -1,4 +1,5 @@
-Copy# Walmart Data Analysis Dashboard
+
+# Walmart Data Analysis Dashboard
 
 ## Overview
 This project involves the analysis and visualization of Walmart raw data, resulting in an interactive Power BI dashboard. The dataset consists of approximately 3,300 rows of data, which has been processed and analyzed using various tools and techniques.
